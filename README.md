@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/License-MIT-purple)](LICENSE)
 
 ## 📌 Descripción
-Este proyecto es un **web scraper en Python con Playwright** que extrae de [Infosec-Conferences](https://infosec-conferences.com/) una lista detallada de **eventos de ciberseguridad**.  
+Mi proyecto es un **web scraper en Python con Playwright** que extrae de [Infosec-Conferences](https://infosec-conferences.com/) una lista detallada de **eventos de ciberseguridad**.  
 Guarda toda la información en un archivo Excel (`.xlsx`), incluyendo una columna con la **descripción detallada de cada evento**.
 
 ## ⚡ Funcionalidades
