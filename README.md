@@ -41,7 +41,7 @@ python AppScrappingdetallado.py
 
 
 
-🛠️ Requisitos
+##🛠️ Requisitos
 
 Python 3.10+
 
@@ -50,6 +50,6 @@ Playwright
 Openpyxl
 
 
-📜 Licencia
+##📜 Licencia
 
 Mi proyecto se distribuye bajo licencia MIT.
